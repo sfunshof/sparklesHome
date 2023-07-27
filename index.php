@@ -59,10 +59,10 @@
       <form action="forms/notify.php" method="post" role="form" class="php-email-form">
         <div class="row">
           <div class="col-md-6">
-             <div class="text-center"><button class=" btn text-nowrap"  type="submit" onclick="window.location.replace('https://www.domicillary.sparkleshealthcare.co.uk')"> Domicillary Care</button></div>
+             <div class="text-center"><button class=" btn text-nowrap"  type="submit" onclick="window.location.http='www.domicillary.sparkleshealthcare.co.uk'"> Domicillary Care</button></div>
           </div>
           <div class="col-md-6">
-             <div class="text-center"><button  class="btn text-nowrap" type="submit"  onclick="window.location.replace('https://www.supported.sparkleshealthcare.co.uk')" >Supported Living</button></div>
+             <div class="text-center"><button  class="btn text-nowrap" type="submit"  onclick="window.location.https='www.supported.sparkleshealthcare.co.uk'" >Supported Living</button></div>
           </div>
         </div>  
       </form>
